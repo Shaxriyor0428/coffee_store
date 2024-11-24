@@ -69,6 +69,7 @@ const Header = () => {
           <div className="navbar__menu__bar">
             <TiThMenuOutline />
           </div>
+          <div className="responsible__mene"></div>
         </nav>
       </div>
     </div>
